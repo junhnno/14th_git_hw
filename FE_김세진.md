@@ -29,7 +29,7 @@
 - git remote add upstream 중앙레포주소
 - git remote -v
 - git branch -M main
-- **Vranch 생성, 파일 수정 전 upstream에서 pull 받기!!**  
+- **Branch 생성, 파일 수정 전 upstream에서 pull 받기!!**  
 git pull upstream main : 중앙레포에서 최신사항 반영
 4. Branch 생성, 폴더에서 파일 수정, 편집
 - git branch : branch 목록 확인
